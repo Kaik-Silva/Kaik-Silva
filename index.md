@@ -4,6 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
+
 </head>
 
 <body>
@@ -16,6 +17,7 @@
 <h2> curiosidades: </h2>
 <p> o macarrão instantâneo foi lançado no dia 28 de agosto de 1958, e se chamava Chicken Ramen. Seu idealizador foi Momofuko Ando, nascido em Taiwan, em 5 de março de 1910, quando a cidade ainda estava sob ocupação japonesa. </p>
 <p> uma pesquisa apontou que para os japoneses, a invenção mais importante do século XX no país é o macarrão instantâneo, logo depois do karaokê. </p>
+
 
 
 </body>
