@@ -1,0 +1,19 @@
+body{
+ background-color: #000FFFF;
+}
+h1{
+color: #F218B8;
+text-decoration-line: underline;
+font: arial;
+font-style: normal;
+font-weight: normal;
+}
+p{
+ color: #FFDA17;
+}
+button:hover {
+ color: #17FF00;
+}
+
+
+
