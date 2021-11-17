@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/Kaik-Silva/Kaik-Silva/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+<h1> uma receita de miojo rápida e fácil</h1>
+<p> comece preparando os ingredientes e os utensílios: uma panela, o miojo de sua escolha, uma colher, e seu fogão. </p>
+<p> encha a panela de água e ligue seu fogão, deixe a água esquentar por 5 minutos. </p>
+<p> quando a água começar a borbulhar, coloque o miojo dentro da panela, pegue o pacote com tempero antes para que não caia na água quente e misture por 30 segundos. </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2> curiosidades: </h2>
+<p> o macarrão instantâneo foi lançado no dia 28 de agosto de 1958, e se chamava Chicken Ramen. Seu idealizador foi Momofuko Ando, nascido em Taiwan, em 5 de março de 1910, quando a cidade ainda estava sob ocupação japonesa. </p>
+<p> uma pesquisa apontou que para os japoneses, a invenção mais importante do século XX no país é o macarrão instantâneo, logo depois do karaokê. </p>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kaik-Silva/Kaik-Silva/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
